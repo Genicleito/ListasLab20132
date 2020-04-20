@@ -1,2 +1,2 @@
-Listas de Lab. 2013.2
+Resoluções de exercícios em C e C++
 ================
